@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baa4297a-4a23-47f1-ae0e-d8df53dab93c" name="Changes" comment="update 10/12/2023">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd8d8ca-e6ae-4baa-8938-3e8ec1ea958b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd8d8ca-e6ae-4baa-8938-3e8ec1ea958b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/dto/ChatMessageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/dto/ChatMessageDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/request/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/request/MessageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/service/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/service/impl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/controller/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto$ChatMessageDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto$ChatMessageDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/request/MessageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/request/MessageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/service/impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.blogwebapi.BlogWebApiApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.blogwebapi.BlogWebApiApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.blogwebapi.BlogWebApiApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.blogwebapi.BlogWebApiApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YrRhUb0HORj68sM4RAl523aKiP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.BlogWebApi [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BlogWebApiApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/notarget/DATA/Team_Web/BlogWebApi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19885057",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "b7c24a58970ac48fb40958a15bbaac56",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "sqlserver",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.blogwebapi.socket" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogWebApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BlogWebApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blogwebapi.BlogWebApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-6ca9ab15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa4297a-4a23-47f1-ae0e-d8df53dab93c" name="Changes" comment="" />
+      <created>1701281830707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701281830707</updated>
+      <workItem from="1701281831836" duration="866000" />
+      <workItem from="1701282776897" duration="144000" />
+      <workItem from="1701282953076" duration="96000" />
+      <workItem from="1701283150540" duration="470000" />
+      <workItem from="1701332476034" duration="21789000" />
+      <workItem from="1701406549874" duration="6611000" />
+      <workItem from="1701486638801" duration="5082000" />
+      <workItem from="1701494479114" duration="776000" />
+      <workItem from="1701496724070" duration="99000" />
+      <workItem from="1701496837944" duration="337000" />
+      <workItem from="1701497195600" duration="5697000" />
+      <workItem from="1701503878789" duration="247000" />
+      <workItem from="1701504172829" duration="22000" />
+      <workItem from="1701504270161" duration="199000" />
+      <workItem from="1701504597471" duration="326000" />
+      <workItem from="1701510634695" duration="724000" />
+      <workItem from="1701513168949" duration="24000" />
+      <workItem from="1701513245489" duration="944000" />
+      <workItem from="1701535598194" duration="3457000" />
+      <workItem from="1701615843373" duration="616000" />
+      <workItem from="1701696427477" duration="4485000" />
+      <workItem from="1701712305174" duration="1321000" />
+      <workItem from="1701713676898" duration="606000" />
+      <workItem from="1701714566890" duration="1828000" />
+      <workItem from="1701768365780" duration="15379000" />
+      <workItem from="1701793536987" duration="3150000" />
+      <workItem from="1701849674420" duration="6198000" />
+      <workItem from="1701871656742" duration="2441000" />
+      <workItem from="1702027728378" duration="1772000" />
+      <workItem from="1702033721287" duration="4621000" />
+      <workItem from="1702093169034" duration="942000" />
+      <workItem from="1702150240752" duration="154000" />
+      <workItem from="1702187734030" duration="2419000" />
+      <workItem from="1702211487985" duration="860000" />
+      <workItem from="1702214080378" duration="1028000" />
+      <workItem from="1702305374990" duration="3911000" />
+      <workItem from="1702671928586" duration="1170000" />
+      <workItem from="1703573859687" duration="657000" />
+      <workItem from="1703666955360" duration="2672000" />
+      <workItem from="1704634034460" duration="724000" />
+      <workItem from="1704710089400" duration="2077000" />
+      <workItem from="1705170389401" duration="617000" />
+      <workItem from="1705217789385" duration="620000" />
+      <workItem from="1705220559131" duration="2952000" />
+      <workItem from="1705248687248" duration="768000" />
+      <workItem from="1705288769031" duration="1315000" />
+      <workItem from="1705299210161" duration="3390000" />
+      <workItem from="1705347256403" duration="1220000" />
+      <workItem from="1705595429766" duration="1912000" />
+      <workItem from="1705611643823" duration="766000" />
+      <workItem from="1705664806684" duration="2675000" />
+      <workItem from="1705758068848" duration="1752000" />
+      <workItem from="1705780396578" duration="3947000" />
+      <workItem from="1705826626683" duration="1221000" />
+      <workItem from="1705897594414" duration="1049000" />
+      <workItem from="1705906061025" duration="2038000" />
+      <workItem from="1705932942305" duration="4524000" />
+      <workItem from="1705999218732" duration="5581000" />
+      <workItem from="1706030584971" duration="10673000" />
+      <workItem from="1706073593042" duration="2402000" />
+      <workItem from="1706192870680" duration="896000" />
+      <workItem from="1706193880098" duration="2181000" />
+      <workItem from="1706269875221" duration="3284000" />
+      <workItem from="1706314773051" duration="612000" />
+      <workItem from="1706512548083" duration="2763000" />
+      <workItem from="1706768543779" duration="5233000" />
+      <workItem from="1706774341538" duration="959000" />
+      <workItem from="1706778339498" duration="3933000" />
+      <workItem from="1706795117475" duration="3233000" />
+      <workItem from="1706869316085" duration="1765000" />
+      <workItem from="1706871721272" duration="3604000" />
+      <workItem from="1706881708489" duration="7009000" />
+      <workItem from="1706889894313" duration="1403000" />
+      <workItem from="1706895356367" duration="4824000" />
+      <workItem from="1706953553183" duration="3906000" />
+      <workItem from="1706965414592" duration="2961000" />
+      <workItem from="1706969451106" duration="358000" />
+      <workItem from="1707038025793" duration="155000" />
+      <workItem from="1707038193819" duration="592000" />
+      <workItem from="1707038808882" duration="4401000" />
+      <workItem from="1707045102246" duration="2054000" />
+      <workItem from="1707053639664" duration="4111000" />
+      <workItem from="1707750393550" duration="2134000" />
+      <workItem from="1707782703984" duration="975000" />
+      <workItem from="1707806960656" duration="2797000" />
+      <workItem from="1707812106624" duration="4137000" />
+      <workItem from="1707882199024" duration="7757000" />
+      <workItem from="1707973037609" duration="233000" />
+      <workItem from="1708252355227" duration="9030000" />
+      <workItem from="1708312535425" duration="1236000" />
+      <workItem from="1708323373341" duration="7842000" />
+      <workItem from="1708335941625" duration="18783000" />
+      <workItem from="1708454679442" duration="151000" />
+      <workItem from="1708454940897" duration="16246000" />
+      <workItem from="1708560157626" duration="1561000" />
+      <workItem from="1708595436880" duration="3458000" />
+      <workItem from="1708782180298" duration="595000" />
+      <workItem from="1708928529888" duration="2729000" />
+      <workItem from="1708970238407" duration="61000" />
+      <workItem from="1708970328919" duration="46000" />
+      <workItem from="1708970409932" duration="1125000" />
+      <workItem from="1708973073063" duration="2971000" />
+      <workItem from="1709001842323" duration="10268000" />
+      <workItem from="1709095184303" duration="14418000" />
+      <workItem from="1709140230639" duration="4000" />
+      <workItem from="1709185867847" duration="2728000" />
+      <workItem from="1709213565393" duration="2291000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1701379979856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701379979856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2/12/2023">
+      <created>1701503277577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701503277577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 10/12/2023">
+      <created>1702150337075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702150337075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.ws:jakarta.xml.ws-api" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update 2/12/2023" />
+    <MESSAGE value="update 10/12/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 10/12/2023" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
