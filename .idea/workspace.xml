@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa4297a-4a23-47f1-ae0e-d8df53dab93c" name="Changes" comment="update 10/12/2023">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd8d8ca-e6ae-4baa-8938-3e8ec1ea958b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd8d8ca-e6ae-4baa-8938-3e8ec1ea958b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/controller/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/dto/ChatMessageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/dto/ChatMessageDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/request/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/dto/request/MessageRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/blogwebapi/service/impl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blogwebapi/service/impl/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/BlogWebApi-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/controller/ChatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto$ChatMessageDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto$ChatMessageDtoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/dto/ChatMessageDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/request/MessageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/dto/request/MessageRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/blogwebapi/service/impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/blogwebapi/service/impl/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.blogwebapi.BlogWebApiApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.blogwebapi.BlogWebApiApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.blogwebapi.BlogWebApiApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.blogwebapi.BlogWebApiApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +61,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/notarget/DATA/Team_Web/BlogWebApi",
+    "last_opened_file_path": "/home/notarget/DATA/Team_Web/BlogWeb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -234,6 +221,7 @@
       <workItem from="1709140230639" duration="4000" />
       <workItem from="1709185867847" duration="2728000" />
       <workItem from="1709213565393" duration="2291000" />
+      <workItem from="1709277152936" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1701379979856</created>
