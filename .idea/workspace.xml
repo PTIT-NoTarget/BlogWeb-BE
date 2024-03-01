@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa4297a-4a23-47f1-ae0e-d8df53dab93c" name="Changes" comment="update 10/12/2023">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="baa4297a-4a23-47f1-ae0e-d8df53dab93c" name="Changes" comment="update 10/12/2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +218,7 @@
       <workItem from="1709140230639" duration="4000" />
       <workItem from="1709185867847" duration="2728000" />
       <workItem from="1709213565393" duration="2291000" />
-      <workItem from="1709277152936" duration="347000" />
+      <workItem from="1709277152936" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1701379979856</created>
