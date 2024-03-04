@@ -21,33 +21,55 @@ import java.util.List;
 public class User implements UserDetails {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id")
+    @Column(name = "id", nullable = false)
     private int userId;
 
-    @Column(name = "full_name")
+    @Column(name = "full_name", nullable = false)
     private String fullName;
 
-    @Column(name = "email")
+    @Column(name = "email", nullable = false)
     private String email;
 
-    @Column(name = "phone")
+    @Column(name = "phone", nullable = false)
     private String phoneNumber;
 
-    @Column(name = "avatar")
+    @Column(name = "avatar", nullable = false)
     private String avatar;
 
-    @Column(name = "username")
+    @Column(name = "username", nullable = false)
     private String username;
 
-    @Column(name = "password")
+    @Column(name = "password", nullable = false)
     private String password;
 
-    @Column(name = "role")
+    @Column(name = "role", nullable = false)
     @Enumerated(EnumType.STRING)
     private Role role;
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
     private List<Reaction> reactions;
+
+    @Column(name = "followerCount", nullable = false)
+    private int followerCount;
+
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(
+            name = "user_followers",
+            joinColumns = @JoinColumn(name = "user_id"),
+            inverseJoinColumns = @JoinColumn(name = "follower_id")
+    )
+    private List<User> followers;
+
+    @Column(name = "followingCount", nullable = false)
+    private int followingCount;
+
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(
+            name = "user_followers",
+            joinColumns = @JoinColumn(name = "follower_id"),
+            inverseJoinColumns = @JoinColumn(name = "user_id")
+    )
+    private List<User> following;
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {

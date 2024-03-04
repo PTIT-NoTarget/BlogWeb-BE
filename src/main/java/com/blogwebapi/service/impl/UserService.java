@@ -167,7 +167,7 @@ public class UserService implements IUserService {
     public List<ChatBoxDto> getChatBox(String accessToken) {
         if (accessToken == null) return null;
         User user = getUserById(Integer.parseInt(jwtService.extractUserId(accessToken)));
-        List<ChatBox> chatBoxDtos = chatBoxRepository.findAllByUser(user);
+        List<ChatBox> chatBoxDtos = chatBoxRepository.findAllByUserOrderByLastMessageTime(user);
         return chatBoxDtos.stream().map(chatBox -> {
             ChatBoxDto chatBoxDto = modelMapper.map(chatBox, ChatBoxDto.class);
             List<ChatMessage> chatMessages = chatBox.getChatMessages();
