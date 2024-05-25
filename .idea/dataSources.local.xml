@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="IU-233.14475.28">
-    <data-source name="blogweb_k1x0@dpg-cmvn6ned3nmc7387tt60-a.singapore-postgres.render.com" uuid="dfd8d8ca-e6ae-4baa-8938-3e8ec1ea958b">
-      <database-info product="PostgreSQL" version="15.5" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.6.0" dbms="POSTGRES" exact-version="15.5" exact-driver-version="42.6">
+  <component name="dataSourceStorageLocal" created-in="IU-241.17011.79">
+    <data-source name="blogweb@demo.c18sc4uqko6u.us-east-1.rds.amazonaws.com" uuid="9b5106b7-51dc-4a9b-b07c-e5cdbbc8105e">
+      <database-info product="PostgreSQL" version="16.2" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.6.0" dbms="POSTGRES" exact-version="16.2" exact-driver-version="42.6">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
-      <user-name>blogweb_k1x0_user</user-name>
+      <user-name>postgres</user-name>
       <schema-mapping>
         <introspection-scope>
           <node kind="database" qname="@">
