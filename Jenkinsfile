@@ -1,5 +1,4 @@
 pipeline {
-    agent {label "demo"}
     stages{
         stage("Check old image") {
             steps {
