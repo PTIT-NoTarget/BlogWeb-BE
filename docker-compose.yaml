@@ -1,0 +1,28 @@
+version: '3'
+services:
+    app:
+        image: notarget/demo
+        environment:
+            - SPRING_DATASOURCE_URL=jdbc:postgresql://54.160.128.203:5432/blogweb
+            - SPRING_DATASOURCE_USERNAME=postgres
+            - SPRING_DATASOURCE_PASSWORD=NoTarget6623
+            - SPRING_PROFILES_ACTIVE=debug
+        ports:
+            - "8081:8081"
+        networks:
+            - app-network
+        depends_on:
+            - database
+
+    database:
+        image: postgres:latest
+        environment:
+            - POSTGRES_DB=blogweb
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=NoTarget6623
+        networks:
+            - app-network
+
+networks:
+    app-network:
+        driver: bridge
